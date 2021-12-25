@@ -10,6 +10,10 @@
 
 # INSTALL BAHAN
 
+# METHOD LOGIN
+
+ Token+Cokies
+
 $ pkg upgrade && pkg update
 
 $ pkg install python
@@ -37,11 +41,9 @@ $ python2 prem.py
 
 
 
-
-
-# INI SEMUA HANYALAH VIRTUAL UNTUK MENCOBA SC PREMIUM ASLI DARI AUTHOR NYA
+# SC NYA AKAN DI TUTUP DALAM 2 MINGGU
 
 
 
 
-                           # THANK YOU
+                    # THANK YOU

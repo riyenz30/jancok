@@ -30,7 +30,7 @@ $ git clone https://github.com/UserEror/prem
 
 # CARA MENJALANKAN SC NYA
 
-$ cd prem.py
+$ cd prem
 
 $ python2 prem.py
 

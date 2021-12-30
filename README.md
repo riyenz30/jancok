@@ -1,18 +1,6 @@
 # PREMIUM PROJECT
 
-# AUTHOR REAL
-
-  Iqbal Dev
-
-# PRECODE
-
- Lal Kimochi
-
 # INSTALL BAHAN
-
-# METHOD LOGIN
-
- Token+Cokies
 
 $ pkg upgrade && pkg update
 
@@ -40,8 +28,6 @@ $ python2 prem.py
 
 
 
-
-# SC NYA AKAN DI TUTUP DALAM 2 MINGGU
 
 
 

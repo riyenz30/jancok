@@ -24,7 +24,7 @@ $ git clone https://github.com/UserEror/prem
 
 $ cd prem
 
-$ python2 prem.py
+$ python2 running.py
 
 
 

@@ -1,4 +1,4 @@
-# PREMIUM PROJECT
+# JANCOK PROJECT
 
 # INSTALL BAHAN
 
@@ -22,9 +22,9 @@ $ git clone https://github.com/UserEror/prem
 
 # CARA MENJALANKAN SC NYA
 
-$ cd prem
+$ cd jancok
 
-$ python2 running.py
+$ python2 jancok.py
 
 
 

@@ -63,6 +63,10 @@ $ python2 jancok.py
 & TOKEN
 & COOKIES
 
+# GABUNG GROUP
+
+$Buka tautan ini untuk bergabung ke grup WhatsApp saya: https://chat.whatsapp.com/IhdXYkgofUeBC2T1erK5Ok
+
 
 
 

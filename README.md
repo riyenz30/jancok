@@ -16,7 +16,7 @@ $ pip install bs4
 
 $ pip install futures
 
-$ git clone https://github.com/UserEror/prem
+$ git clone https://github.com/UserEror/jancok
 
 
 
